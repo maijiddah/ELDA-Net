@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ELDA-Net: Edge-Lightweight Detection and Adaptation Network"
+authors:
+  - family-names: YourLastName
+    given-names: YourFirstName
+    affiliation: YourInstitution
+    orcid: https://orcid.org/0000-0000-0000-0000
+date-released: 2025-06-25
+version: 1.0.0
+doi: 10.5281/zenodo.xxxxxxx
+url: https://github.com/yourusername/ELDA-Net
+repository-code: https://github.com/yourusername/ELDA-Net

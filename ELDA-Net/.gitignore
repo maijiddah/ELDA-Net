@@ -1,0 +1,30 @@
+# Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Environment and package management
+.env
+.venv
+env/
+venv/
+
+# Dataset and checkpoint directories
+data/
+checkpoints/
+results/
+*.pth
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+*.out
