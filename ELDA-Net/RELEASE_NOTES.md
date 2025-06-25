@@ -44,9 +44,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @misc{eldanet2025,
   title={ELDA-Net: Edge-Lightweight Detection and Adaptation Network for Real-Time Lane Detection},
-  author={Your Name},
+  author={Abdullahi Hauwa Suleiman},
   year={2025},
-  howpublished={\url{https://github.com/yourusername/ELDA-Net}},
+  howpublished={\url{https://github.com/maijiddah/ELDA-Net}},
   note={GitHub repository}
 }
 ```
